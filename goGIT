@@ -1,2 +1,2 @@
-git add --all;git commit -a -m "ff"
+git add --all;git commit -a -m "fff"
 git push origin master
