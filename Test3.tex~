@@ -4,8 +4,4 @@ Hello.
 This is More!
 And less!
 $$\int f(t)\,dt=\frac{F+G}{H}$$
-\begin{section}{One}
-It goes here.
- \end{section}
-  
 \end{document}
