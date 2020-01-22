@@ -1,5 +1,7 @@
 # TexAndMath
-This is linked to ShareLaTeX. 
+No longer linked to ShareTeX, which has been absorbed into Overleaf.
+
+See [Overleaf](http://www.overleaf.com).
 
 The latest tex file is processed automatically producing a PDF file.
 
